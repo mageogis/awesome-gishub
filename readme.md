@@ -78,6 +78,8 @@ Este es un espacio en el que podrás encontrar todo tipo de recursos relacionado
 
 ## Libros
 
+Manual de gestión de los Sistemas de Información Geográfica (3ª edición) https://croswell-schulte.com/the-gis-management-handbook-3rd-edition/
+
 An Introduction to Earth and Environmental Data Science https://earth-env-data-science.github.io/intro.html
 
 Geospatial Analysis - spatial and GIS analysis techniques and GIS software https://spatialanalysisonline.com/ 
