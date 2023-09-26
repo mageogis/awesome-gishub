@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 # Awesome Gishub
 
 Este es un espacio en el que podrás encontrar todo tipo de recursos relacionados con los SIG.
