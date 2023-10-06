@@ -117,12 +117,12 @@ Info
 Geología
 ========
 
-[Comisión Internacional de Estratigrafía](https://stratigraphy.org/)
+[Comisión Internacional de Estratigrafía](https://stratigraphy.org/) es el cuerpo constituyente científico más grande y antiguo en la Unión de Ciencias Geológicas Internacional (IUGS, International Union of Geological Sciences)
 
 [Servicios Geológicos en el mundo](http://tierra.rediris.es/geolsurveys.html)
 
-[geovirtual, Apuntes de geología](http://www.geovirtual2.cl/Entrada/ApuntesIntro01.htm)
+[geovirtual](http://www.geovirtual2.cl/Entrada/ApuntesIntro01.htm) Apuntes de geología
 
-[Glosario de Schlumberger](https://glossary.slb.com/es/)
+[Schlumberger](https://glossary.slb.com/es/) Glosario energético
 
-[Macrostrat, una plataforma para la exploración, integración y análisis de datos geológicos](https://macrostrat.org/)
+[Macrostrat](https://macrostrat.org/), una plataforma para la exploración, integración y análisis de datos geológicos
