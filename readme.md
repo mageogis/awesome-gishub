@@ -14,6 +14,7 @@ Tabla de contenidos
 * [Misceláneo](#misceláneo)
 * [Libros](#libros)
 * [Info](#info)
+* [Geología](#geología)
 <!--te-->
 
 
@@ -111,3 +112,17 @@ Info
 ====
 
 [EPSG](https://epsg.io/) Coordinate ystems Worlwide, from MapTiler Team
+
+
+Geología
+========
+
+[Comisión Internacional de Estratigrafía](https://stratigraphy.org/)
+
+[Servicios Geológicos en el mundo](http://tierra.rediris.es/geolsurveys.html)
+
+[geovirtual, Apuntes de geología](http://www.geovirtual2.cl/Entrada/ApuntesIntro01.htm)
+
+[Glosario de Schlumberger](https://glossary.slb.com/es/)
+
+[Macrostrat, una plataforma para la exploración, integración y análisis de datos geológicos](https://macrostrat.org/)
