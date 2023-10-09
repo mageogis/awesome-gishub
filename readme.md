@@ -15,6 +15,7 @@ Tabla de contenidos
 * [Libros](#libros)
 * [Info](#info)
 * [Geología](#geología)
+* [Blogs/Noticias](#blogsnoticias)
 <!--te-->
 
 
@@ -126,3 +127,20 @@ Geología
 [Schlumberger](https://glossary.slb.com/es/) Glosario energético
 
 [Macrostrat](https://macrostrat.org/), una plataforma para la exploración, integración y análisis de datos geológicos
+
+
+Blogs/Noticias
+==============
+
+### Boletines de Substack
+[Remote sensing news](https://rafaelatiengo.substack.com/), estarás al día de las noticias más recientes, consejos, tutoriales, conferencias y mucho más sobre Teledetección y Geociencia.
+
+[Open-Source Solutions for Geospatial Analysis](https://bonnypmcclain.substack.com/), recibirás ideas sobre análisis geoespacial, consejos para analizar tus datos con herramientas de código abierto como un profesional de la ciencia de datos, por Bonny P. McClain.
+
+[TerraWatch Space Insights](https://newsletter.terrawatchspace.com/) es el recurso de referencia para el análisis, la comprensión y la profundización en la observación de la Tierra, los datos satelitales y sus aplicaciones.
+
+[The satellite-image-deep-learning organisation](https://www.satellite-image-deep-learning.com/) es una organización para ayudar tanto a principiantes como a expertos a aplicar el aprendizaje profundo a las imágenes aéreas y por satélite
+
+[Strategic Geospatial](https://www.strategicgeospatial.com/) por Will Cadell.
+
+[Geospatial Jobs](https://geospatial.substack.com/), boletín profesional centrado en listados de empleos en la ciencia de datos y las geociencias, por Ali Ahmadalipour.
