@@ -112,7 +112,9 @@ Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applicatio
 Info
 ====
 
-[EPSG](https://epsg.io/) Coordinate ystems Worlwide, from MapTiler Team
+[EOSDA Analytics](https://eos.com/es/) Soluciones espaciales para los problemas de la Tierra
+
+[EPSG](https://epsg.io/) Sistemas de coordenadas mundial, de MapTiler
 
 
 Geología
