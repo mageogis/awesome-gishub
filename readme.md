@@ -147,7 +147,7 @@ Blogs/Noticias
 
 [Geospatial Jobs](https://geospatial.substack.com/), boletín profesional centrado en listados de empleos en la ciencia de datos y las geociencias, por Ali Ahmadalipour.
 
-Si aprecias mi trabajo, puedes enviar satoshis vía LN:
+Si aprecias mi trabajo, puedes enviar satoshis vía LN :zap:
 
  ![image](https://github.com/mageogis/awesome-gishub/assets/40426390/6678c205-db94-4523-a7ef-8f770b34137e)
 
