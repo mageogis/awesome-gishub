@@ -146,3 +146,9 @@ Blogs/Noticias
 [Strategic Geospatial](https://www.strategicgeospatial.com/) por Will Cadell.
 
 [Geospatial Jobs](https://geospatial.substack.com/), boletín profesional centrado en listados de empleos en la ciencia de datos y las geociencias, por Ali Ahmadalipour.
+
+Si aprecias mi trabajo, puedes enviar satoshis vía LN:
+
+ ![image](https://github.com/mageogis/awesome-gishub/assets/40426390/6678c205-db94-4523-a7ef-8f770b34137e)
+
+LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0X9UXYWP4VYCKGENZVSMRYCN9X5UXGC6FEYM
