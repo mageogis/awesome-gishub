@@ -108,6 +108,8 @@ Geospatial Analysis - spatial and GIS analysis techniques and GIS software https
 
 Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications https://www.eefabook.org/go-to-the-book.html
 
+[Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
+
 
 Info
 ====
@@ -128,11 +130,18 @@ Geología
 
 [Schlumberger](https://glossary.slb.com/es/) Glosario energético
 
+[Mapping the Geology of South America](https://ccgm.org/en/2023/02/26/mapping-the-geology-of-south-america)
+
 [Macrostrat](https://macrostrat.org/), una plataforma para la exploración, integración y análisis de datos geológicos
 
 
 Blogs/Noticias
 ==============
+
+### Artículos
+[Áreas Conservadas de Venezuela](https://storymaps.arcgis.com/stories/5f25ab43f9c34c00bf99b63b760c2bfb)
+
+[Archean cratonic mantle recycled at a mid-ocean ridge](https://www.science.org/doi/10.1126/sciadv.abn6749)
 
 ### Boletines de Substack
 [Remote sensing news](https://rafaelatiengo.substack.com/), estarás al día de las noticias más recientes, consejos, tutoriales, conferencias y mucho más sobre Teledetección y Geociencia.
@@ -146,6 +155,18 @@ Blogs/Noticias
 [Strategic Geospatial](https://www.strategicgeospatial.com/) por Will Cadell.
 
 [Geospatial Jobs](https://geospatial.substack.com/), boletín profesional centrado en listados de empleos en la ciencia de datos y las geociencias, por Ali Ahmadalipour.
+
+Guías
+=====
+[Cómo descargar datos climáticos con Google Earth Engine](https://geoinnova.org/
+
+[How to generate a Leaflet.js webmap on QGIS with plugin](https://www.luisalucchese.com/post/how-to-leaflet-qgis2web-adjust-generated-map)
+
+[Procedure for creating SVG files for use in QGIS from FGDC symbols](https://www.researchgate.net/publication/335601349_Procedure_for_creating_SVG_files_for_use_in_QGIS_from_FGDC_symbols)
+
+[How to visualize geological data in QGIS with QGeoloGIS](https://www.linkedin.com/pulse/how-visualize-geological-data-qgis-qgeologis-rapha%C3%ABl-delhome/)
+
+
 
 Si aprecias mi trabajo, puedes enviar satoshis vía LN :zap:
 
