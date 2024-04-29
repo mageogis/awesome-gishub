@@ -113,6 +113,13 @@ Vector/Raster Data
 
 [Geographic Magnetic Calculator](https://geosaber.blogspot.com/2010/01/geographic-magnetic-calculator.html) - Herramienta para determinar las Coordenadas UTM y la Declinación Magnética correspondientes a una localización geográfica (latitud/longitud).
 
+[ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/es/home/) es la principal colección de información geográfica de todo el mundo. Incluye mapas, aplicaciones y capas de datos para ayudarle en su trabajo.
+
+[Free GIS Data](https://freegisdata.rtwilson.com/) por Robin Wilson
+
+[Catálogo de datos abiertos de la NASA](https://data.nasa.gov/browse)
+
+[Overture Maps Data](https://overturemaps.org/download/#) Capas de sitios de interés, edificaciones, transporte y límites administrativos.
 
 Libros
 ======
