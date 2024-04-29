@@ -7,30 +7,14 @@ Tabla de contenidos
 ===================
 
 <!--ts-->
-* [DEM (Modelo Digital de Elevación)](#dem-modelo-digital-de-elevación)
 * [Herramientas de observación por satélite](herramientas-de-observación-por-satélite)
-* [Clima](#clima)
-* [Bibliotecas de código y Teselas](#bibliotecas-de-código-y-teselas)
-* [Misceláneo](#misceláneo)
+* [Vector/Raster Data](#vectorraster-data)
 * [Libros](#libros)
 * [Info](#info)
 * [Geología](#geología)
 * [Blogs/Noticias](#blogsnoticias)
+* [Guías](guías)
 <!--te-->
-
-
-DEM (Modelo Digital de Elevación)
-================================
-
-[OpenDEM](https://opendem.info/index.html) - El Portal para compartir la 3ª Dimensión
-
-[SRTM](https://srtm.csi.cgiar.org/) - SRTM 90m DEM - Base de datos digital de elevaciones 
-
-[OpenTopography](https://portal.opentopography.org/dataCatalog) - Nube de puntos y datos ráster
-
-[Shaded Relief Archive](https://www.shadedreliefarchive.com/) - Este sitio web ofrece un archivo de relieves sombreados escaneados manualmente para cartógrafos digitales.
-
-[EU-DEM — Copernicus Land Monitoring Service](https://land.copernicus.eu/imagery-in-situ/eu-dem) 
 
 
 Herramientas de observación por satélite
@@ -49,8 +33,23 @@ Herramientas de observación por satélite
 [NASA Visible Earth](https://visibleearth.nasa.gov/view_cat.php?categoryID=1484)
 
 
-Clima
-=====
+Vector/Raster Data
+==================
+
+* DEM (Modelo Digital de Elevación)
+
+[OpenDEM](https://opendem.info/index.html) - El Portal para compartir la 3ª Dimensión
+
+[SRTM](https://srtm.csi.cgiar.org/) - SRTM 90m DEM - Base de datos digital de elevaciones 
+
+[OpenTopography](https://portal.opentopography.org/dataCatalog) - Nube de puntos y datos ráster
+
+[Shaded Relief Archive](https://www.shadedreliefarchive.com/) - Este sitio web ofrece un archivo de relieves sombreados escaneados manualmente para cartógrafos digitales.
+
+[EU-DEM — Copernicus Land Monitoring Service](https://land.copernicus.eu/imagery-in-situ/eu-dem) 
+
+
+* Clima
 
 [Climate Engine](https://climateengine.org/) - Datos climáticos y de observación de la Tierra
 
@@ -60,9 +59,24 @@ Clima
 
 [GEBCO](https://www.gebco.net/data_and_products/gridded_bathymetry_data/) - Datos batimétricos
 
+[WorldClim](https://www.worldclim.org/) Maps, graphs, tables, and data of the global climate
 
-Bibliotecas de código y Teselas
-===============================
+[Global Change Master Directory](https://catalog.data.gov/dataset/global-change-master-directory-gcmd) Conjuntos de datos y servicios de ciencias de la Tierra que abarcan todos los aspectos de las ciencias de la Tierra y el medio ambiente.
+
+[River Network](https://www.rivernetwork.org/our-impact/how-we-help/providing-science-support-2/science-and-technical-resources-portal/data-sharing/) Base de datos de drenajes en USA
+
+[Open Air Quality](https://openaq.org/) Datos sobre la calidad del aire en todo el mundo
+
+[Freshwater Ecoregions of the World](https://www.worldwildlife.org/pages/freshwater-ecoregions-of-the-world--2) proporciona una regionalización global de la biodiversidad de agua dulce de la Tierra
+
+[USGS National Dataset](https://www.usgs.gov/products/data)
+
+[NASA Earth Observations](https://neo.gsfc.nasa.gov/)
+
+[HydroSHEDS](https://www.hydrosheds.org/products) Datos hidrograficos de alta calidad para el modelado hidrologico
+
+
+* Teselas
 
 [MapLibre](https://maplibre.org/projects/) - La Organización MapLibre es un sombrilla para las bibliotecas cartográficas de código abierto
 
@@ -70,15 +84,18 @@ Bibliotecas de código y Teselas
 
 [Free Tiles](http://alexurquhart.github.io/free-tiles/) - Servicios de teselas gratuitas by @alexurquhart
 
+
+* Misceláneo
+
 [Shapefiles de Venezuela](https://tapiquen-sig.jimdofree.com/descargas-gratuitas/venezuela/) - by Efrain Tapiquen 
 
 [Mapbiomas Amazonia](https://plataforma.amazonia.mapbiomas.org/) - Mapeo Anual de Cobertura y Uso del Suelo de la Amazonía
  
 [MIT GIS Data](https://libguides.mit.edu/gis/GISdata) - MASSACHUSETTS INSTITUTE OF TECHNOLOGY
 
+[Google Researh - Open Building](https://sites.research.google/open-buildings/) Datasets de huellas de edificios compilado en Google
 
-Misceláneo
-==========
+[Data.gov](https://data.gov/) Datos abiertos sobre conjuntos de datos geográficos y demográficos de USA
 
 [gisgeography](https://gisgeography.com/category/data-sources/) - Fuentes de datos geográficos de SIG
 
@@ -158,6 +175,7 @@ Blogs/Noticias
 
 Guías
 =====
+
 [Cómo descargar datos climáticos con Google Earth Engine](https://geoinnova.org/)
 
 [How to generate a Leaflet.js webmap on QGIS with plugin](https://www.luisalucchese.com/post/how-to-leaflet-qgis2web-adjust-generated-map)
