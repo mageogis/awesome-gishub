@@ -36,6 +36,21 @@ Herramientas de observación por satélite
 Vector/Raster Data
 ==================
 
+[Copernicus Land Monitoring Service](https://land.copernicus.eu/) - Información geográfica sobre la cobertura del suelo, uso del suelo, movimientos de terreno, estado de la vegetación, ciclo del agua y variables energéticas de la superficie de la Tierra.
+
+[NASA Earth Observations](https://neo.gsfc.nasa.gov/)
+
+[Catálogo de datos abiertos de la NASA](https://data.nasa.gov/browse)
+
+[USGS National Dataset](https://www.usgs.gov/products/data)
+
+[ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/es/home/) es la principal colección de información geográfica de todo el mundo. Incluye mapas, aplicaciones y capas de datos para ayudarle en su trabajo.
+
+[Natural Earth Data](https://www.naturalearthdata.com/downloads/) - Datos cartográficos vectoriales y ráster gratuitos a 1:10m, 1:50m, and 1:110m scales
+
+[MIT GIS Data](https://libguides.mit.edu/gis/GISdata) - MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+
+
 * DEM (Modelo Digital de Elevación)
 
 [OpenDEM](https://opendem.info/index.html) - El Portal para compartir la 3ª Dimensión
@@ -45,8 +60,6 @@ Vector/Raster Data
 [OpenTopography](https://portal.opentopography.org/dataCatalog) - Nube de puntos y datos ráster
 
 [Shaded Relief Archive](https://www.shadedreliefarchive.com/) - Este sitio web ofrece un archivo de relieves sombreados escaneados manualmente para cartógrafos digitales.
-
-[Copernicus Land Monitoring Service](https://land.copernicus.eu/)
 
 
 * Clima
@@ -69,10 +82,6 @@ Vector/Raster Data
 
 [Freshwater Ecoregions of the World](https://www.worldwildlife.org/pages/freshwater-ecoregions-of-the-world--2) proporciona una regionalización global de la biodiversidad de agua dulce de la Tierra
 
-[USGS National Dataset](https://www.usgs.gov/products/data)
-
-[NASA Earth Observations](https://neo.gsfc.nasa.gov/)
-
 [HydroSHEDS](https://www.hydrosheds.org/products) Datos hidrograficos de alta calidad para el modelado hidrologico
 
 
@@ -91,8 +100,6 @@ Vector/Raster Data
 
 [Mapbiomas Amazonia](https://plataforma.amazonia.mapbiomas.org/) - Mapeo Anual de Cobertura y Uso del Suelo de la Amazonía
  
-[MIT GIS Data](https://libguides.mit.edu/gis/GISdata) - MASSACHUSETTS INSTITUTE OF TECHNOLOGY
-
 [Google Researh - Open Building](https://sites.research.google/open-buildings/) Datasets de huellas de edificios compilado en Google
 
 [Data.gov](https://data.gov/) Datos abiertos sobre conjuntos de datos geográficos y demográficos de USA
@@ -103,8 +110,6 @@ Vector/Raster Data
 
 [USGS National Geologic Map Database](https://ngmdb.usgs.gov/Info/standards/GeMS/) - "GeMS" (Geologic Map Schema)
 
-[Natural Earth Data](https://www.naturalearthdata.com/downloads/) - Datos cartográficos vectoriales y ráster gratuitos a 1:10m, 1:50m, and 1:110m scales
-
 [GEOFABRIK](https://www.geofabrik.de/data/download.html) - Geodatos shp y raw gratuitos basados en OpenStreetMap
 
 [Mapicons collection](https://mapicons.mapsmarker.com/) - Íconos para utilizar como marcadores de posición para sus POI (Puntos de Interés) en sus mapas.
@@ -113,26 +118,24 @@ Vector/Raster Data
 
 [Geographic Magnetic Calculator](https://geosaber.blogspot.com/2010/01/geographic-magnetic-calculator.html) - Herramienta para determinar las Coordenadas UTM y la Declinación Magnética correspondientes a una localización geográfica (latitud/longitud).
 
-[ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/es/home/) es la principal colección de información geográfica de todo el mundo. Incluye mapas, aplicaciones y capas de datos para ayudarle en su trabajo.
-
 [Free GIS Data](https://freegisdata.rtwilson.com/) por Robin Wilson
-
-[Catálogo de datos abiertos de la NASA](https://data.nasa.gov/browse)
 
 [Overture Maps Data](https://overturemaps.org/download/#) Capas de sitios de interés, edificaciones, transporte y límites administrativos.
 
 Libros
 ======
 
-Manual de gestión de los Sistemas de Información Geográfica (3ª edición) https://croswell-schulte.com/the-gis-management-handbook-3rd-edition/
+Introducción a Python para Geociencias [PDF](https://repositorio.unal.edu.co/handle/unal/85961)
 
-An Introduction to Earth and Environmental Data Science https://earth-env-data-science.github.io/intro.html
+Manual de gestión de los Sistemas de Información Geográfica (3ª edición) [PDF](https://croswell-schulte.com/the-gis-management-handbook-3rd-edition/)
 
-Geospatial Analysis - spatial and GIS analysis techniques and GIS software https://spatialanalysisonline.com/ 
+An Introduction to Earth and Environmental Data Science [HTML](https://earth-env-data-science.github.io/intro.html)
 
-Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications https://www.eefabook.org/go-to-the-book.html
+Geospatial Analysis - spatial and GIS analysis techniques and GIS software [HTML](https://spatialanalysisonline.com/)
 
-[Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
+Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications [HTML](https://www.eefabook.org/go-to-the-book.html)
+
+Data Engineering Design Patterns (DEDP) [HTML](https://www.dedp.online/)
 
 
 Info
