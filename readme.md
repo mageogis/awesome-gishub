@@ -188,6 +188,8 @@ Blogs/Noticias
 Guías
 =====
 
+[Spatial Thoughts: Plataforma de aprendizaje para tecnologías geoespaciales modernas](https://spatialthoughts.com/)
+
 [Cómo descargar datos climáticos con Google Earth Engine](https://geoinnova.org/)
 
 [How to generate a Leaflet.js webmap on QGIS with plugin](https://www.luisalucchese.com/post/how-to-leaflet-qgis2web-adjust-generated-map)
